@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gestion de Tareas</string>
+
+    <string name="agregar">AGREGAR</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="nuevaTarea">Ingrese nueva tarea</string>
+    <string name="eliminarTarea">¿Esta seguro de eliminar tarea?</string>
+</resources>
